@@ -6,5 +6,5 @@ Access in browser:
 localhost:8080/api/v1/person
 
 Structure:
-SprBottTutorialJanuary2022.jpg
+![alt text](https://github.com/SantaKolosovska/SpringPractice/blob/main/SprBottTutorialJanuary2022.jpg)
 
